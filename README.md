@@ -22,3 +22,14 @@ say_hello("Siddhanta Bhatta")
     'Hello Siddhanta Bhatta!'
 
 
+
+```python
+say_hello("Siddhanta Bhatta 1")
+```
+
+
+
+
+    'Hello Siddhanta Bhatta 1!'
+
+
